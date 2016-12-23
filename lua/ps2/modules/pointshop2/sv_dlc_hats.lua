@@ -1,3 +1,5 @@
+resource.AddWorkshop("277755743")
+
 local hats = {
 	["Pointshop2.TrailPersistence"] = {
 	},
